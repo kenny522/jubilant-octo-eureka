@@ -1,0 +1,28 @@
+{
+  "name": "jubilant-octo-eureka",
+  "version": "1.0.0",
+  "description": "Team Profile Generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenny522/jubilant-octo-eureka.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenny522/jubilant-octo-eureka/issues"
+  },
+  "homepage": "https://github.com/kenny522/jubilant-octo-eureka#readme"
+}
