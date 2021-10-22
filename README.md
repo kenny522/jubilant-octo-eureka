@@ -29,6 +29,8 @@ The application can be invoked with node `index.js`
 When you run node `index.js` in your terminal, the app uses the inquirer package to prompt the user with a series of questions about your team members.
 Once all the questions have been answered, the data is collected and your HTML file will be created.
 
+![Screen Shot 2021-10-21 at 8 00 29 PM](https://user-images.githubusercontent.com/84942098/138386570-2f199a6e-375e-40a0-b341-397ed56a7055.jpeg)
+
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
