@@ -1,3 +1,5 @@
+
+
 # jubilant-octo-eureka
 
 Team Profile Generator
@@ -5,6 +7,8 @@ Team Profile Generator
 # Discription
 This project is built using JavaScript Object Orientated Programming considerations.
 It automates the creation of a formatted index.html containing a teams' profile cards via a series of prompts / questions that the end user is required to provides responses to.
+
+Demonstration project: [link](https://user-images.githubusercontent.com/84942098/138385832-3d1805a6-ce1f-4c4f-898e-4db115e6a456.mov)
 
 ## Table of Contents       
    * [Installation](#installation)
